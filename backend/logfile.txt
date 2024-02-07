@@ -1,0 +1,1 @@
+LOG: 2023/05/29 13:19:37 historialdata.go:23: Missing required Parameters
